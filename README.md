@@ -18,8 +18,6 @@
 - ``` Minor Design Corrections```:white_check_mark:
 - ``` Live Stream Movies```:white_check_mark:
 
-## Live Demo
-[Link](https://moviweb.herokuapp.com/):computer:
 
 ## Staggers
 [![Stargazers](https://reporoster.com/stars/betahut/movie-app)](https://github.com/betahut/movie-app/stargazers)
@@ -33,9 +31,3 @@
 - ``` Movies Automation Fix```:black_square_button:
 - ``` Making this faster and cleaner```:black_square_button:
 
-## Sample Images
-![Image for Page 0](https://raw.githubusercontent.com/moaj257/movie-app/master/public/images/page_0.png)
-
-![Image for Page 1](https://raw.githubusercontent.com/moaj257/movie-app/master/public/images/page_1.png)
-
-![Image for Page 2](https://raw.githubusercontent.com/moaj257/movie-app/master/public/images/page_2.png)
