@@ -25,9 +25,4 @@
 ## Forkers
 [![Forkers](https://reporoster.com/forks/betahut/movie-app)](https://github.com/betahut/movie-app/network/members)
 
-## Todos
-- ``` Add Support for Tamil & Tamil Dubbed Movies```:black_square_button:
-- ``` Add Tv Series stream```:black_square_button:
-- ``` Movies Automation Fix```:black_square_button:
-- ``` Making this faster and cleaner```:black_square_button:
 
